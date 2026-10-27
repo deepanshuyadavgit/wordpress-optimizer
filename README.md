@@ -24,6 +24,3 @@ A collection of real, verified techniques for WordPress performance optimization
 - GZIP / Brotli compression
 - Database query optimization
 
-Verified from BrowserStack 2025 guide and Jetpack 6-plugin / 6,000-site benchmark.
-
-No personal data. No fabricated history.
